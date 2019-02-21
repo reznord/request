@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "bms-request",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
